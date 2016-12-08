@@ -3,6 +3,9 @@
 !===============!=============================================================================================!
 !&Fiche       Du   ! S.!   Operateur   !                      Motif de l'intervention                         !
 !__________________!___!_______________!_____________________________________________________________________-!
+
+!V61 60300 19-07-16!Evo!mic            !ajouter une ligne de commentaire pour test sur ma machine pour envoie en push !
+
 !V61 60300 19-07-16!Evo!mic            !faire une version 6 a partir de la 5 de tx2 pour Cocumont qui gere le !
 !V61 59398 19-05-16!New!mic            !ajout prm pour editer la liste des commandes avec desadv et/pou facedi!
 !V61 59235 03-05-16!New!mic            !remonter modif de fabien du edi-plug.p de 502 pour soc 0007 qui part s!
